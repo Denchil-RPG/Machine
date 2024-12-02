@@ -1,1 +1,1 @@
-# Machine
+print "hello"
